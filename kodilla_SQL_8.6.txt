@@ -1,0 +1,13 @@
+USE kodilla_tester;
+SELECT DATABASE();
+
+INSERT INTO posts (user_id, body)
+VALUES (5, 'Bazinga!');
+
+UPDATE posts
+SET body='To delete'
+WHERE user_id = 5;
+
+DELETE FROM posts
+WHERE body = 'To delete' AND user_id=5;
+COMMIT;
