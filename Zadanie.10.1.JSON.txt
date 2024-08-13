@@ -1,0 +1,27 @@
+Obiekt JSON:
+
+{ 
+  "carModel" : "Cybertruck",
+  "carBrand" : "Tesla",
+  "seats" : [
+	     "driversSeat" :{
+			    "material" : "leather",
+			     "colour" : "blue"
+			    },
+	      "passengerSeat" :{
+			     	"material" : "velcro"'
+			     	"colour" : "beige"
+			    },
+	      "backLeftSeat":{
+			      "material" : "paper",
+			      "colour" : "red"
+			    },
+	       "backRightSeat" :{
+				 "material" : "wood",
+				 "colour" : "white"
+			    }
+	     ],
+  "engineCapacity" : 10.5
+ }
+			     	
+  
