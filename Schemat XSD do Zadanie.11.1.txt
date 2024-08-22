@@ -1,0 +1,38 @@
+Schemat XSD do Zadanie.11.1
+
+<?xml version="1.0" encoding="UTF-8">
+<xs:schema xmlns:xs="https://www.w3.org/2001/XMLSchema"
+	   targetNamespace="http://www.example.com"
+	   xmlns="http://www.example.com"
+	   elementFormDefault="qualified">
+	<xs:element name="cars">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="car" maxOccurs="unbounded">
+					<xs:complexType>
+				    		<xs:sequence>
+							<xs:element name="brand" type="xs:string" maxOccurs="unbounded>
+								<xs:complexType>
+				    					<xs:sequence>
+										<xs:element name="model" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="name" type="xs:string"/>
+													<xs:element name="yearOfRelease" type="xs:integer"/>
+													<xs:element name="engine" type="xs:string"/>
+													<xs:element name="colour" type="xs:string"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
+
+						
