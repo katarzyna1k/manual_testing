@@ -1,0 +1,48 @@
+Obiekt samochodu zapisany w XML:
+
+<?xml version = "1.0" encoding = "UTF-8">
+	<cars xmlns="http://www.example.com">
+		<car> 
+			<brand> Jeep </brand>
+				<model> 
+					<name> Renegade </name>
+					<yearOfRelease> 2020 </yearOfRelease>
+					<engine> 2.4 Gas </engine>
+					<colour> Black </colour>
+				</model>
+				<model> 
+					<name> Grand Cherokee </name>
+					<yearOfRelease> 2017 </yearOfRelease>
+					<engine> 6.4 Gas </engine>
+					<colour> White </colour>
+				</model>
+		</car>
+		<car>  
+			<brand> Toyota </brand>
+				<model> 
+					<name> Avensis </name>
+					<yearOfRelease> 2009 </yearOfRelease>
+					<engine> 2.2 Diesel </engine>
+					<colour> Gold </colour>
+				</model>
+		</car>
+		<car> 
+			<brand> Ford </brand>
+				<model> 
+					<name> Fiesta </name>
+					<yearOfRelease> 2015 </yearOfRelease>
+					<engine> 1.2 Gas + LPG </engine>
+					<colour> Red </colour>
+				</model>
+				<model> 
+					<name> Kuga  </name>
+					<yearOfRelease> 2008 </yearOfRelease>
+					<engine> 1.9 Diesel </engine>
+					<colour> Black </colour>
+				</model>
+		</car>
+	</cars>
+
+
+
+		
