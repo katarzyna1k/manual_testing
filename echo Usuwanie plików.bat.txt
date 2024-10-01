@@ -1,0 +1,11 @@
+echo Usuwanie plików .jar
+del build/libs/*.jar
+echo Kompilacja projektu
+gradlew build
+echo Kopiowanie pliku .jar
+if exist build/libs/*.jar(
+	xcopy build/libs/*.jar c:\project
+	echo Plik został skopiowany
+)else(
+	echo Błąd kompilacji-plik .jar nie istnieje)
+pause
