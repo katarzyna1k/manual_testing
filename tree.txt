@@ -1,0 +1,120 @@
+1728342557331,706,getBlog Request,200,OK,Thread Group get blog 1-1,text,true,,14844,237,8,8,https://kodilla.com/pl/blog,398,0,295
+1728342557331,398,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-1,text,true,,1424,117,8,8,https://kodilla.com/blog,398,0,295
+1728342557730,307,getBlog Request-1,200,OK,Thread Group get blog 1-1,text,true,,13420,120,8,8,https://kodilla.com/pl/blog,259,0,0
+1728342557431,709,getBlog Request,200,OK,Thread Group get blog 1-2,text,true,,14831,237,9,9,https://kodilla.com/pl/blog,513,0,298
+1728342557431,513,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-2,text,true,,1416,117,9,9,https://kodilla.com/blog,513,0,298
+1728342557944,196,getBlog Request-1,200,OK,Thread Group get blog 1-2,text,true,,13415,120,9,9,https://kodilla.com/pl/blog,196,0,0
+1728342557827,516,getBlog Request,200,OK,Thread Group get blog 1-6,text,true,,14843,237,10,10,https://kodilla.com/pl/blog,312,0,212
+1728342557827,312,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-6,text,true,,1418,117,10,10,https://kodilla.com/blog,312,0,212
+1728342558139,204,getBlog Request-1,200,OK,Thread Group get blog 1-6,text,true,,13425,120,10,10,https://kodilla.com/pl/blog,204,0,0
+1728342557527,918,getBlog Request,200,OK,Thread Group get blog 1-3,text,true,,14841,237,10,10,https://kodilla.com/pl/blog,408,0,277
+1728342557527,408,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-3,text,true,,1418,117,10,10,https://kodilla.com/blog,408,0,277
+1728342557935,510,getBlog Request-1,200,OK,Thread Group get blog 1-3,text,true,,13423,120,10,10,https://kodilla.com/pl/blog,408,0,0
+1728342557727,822,getBlog Request,200,OK,Thread Group get blog 1-5,text,true,,14831,237,10,10,https://kodilla.com/pl/blog,618,0,262
+1728342557727,618,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-5,text,true,,1418,117,10,10,https://kodilla.com/blog,618,0,262
+1728342558345,204,getBlog Request-1,200,OK,Thread Group get blog 1-5,text,true,,13413,120,10,10,https://kodilla.com/pl/blog,204,0,0
+1728342558144,608,getBlog Request,200,OK,Thread Group get blog 1-2,text,true,,14831,237,10,10,https://kodilla.com/pl/blog,480,0,0
+1728342558144,480,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-2,text,true,,1418,117,10,10,https://kodilla.com/blog,480,0,0
+1728342558624,128,getBlog Request-1,200,OK,Thread Group get blog 1-2,text,true,,13413,120,10,10,https://kodilla.com/pl/blog,128,0,0
+1728342557628,1124,getBlog Request,200,OK,Thread Group get blog 1-4,text,true,,14851,237,10,10,https://kodilla.com/pl/blog,409,0,305
+1728342557628,409,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-4,text,true,,1416,117,10,10,https://kodilla.com/blog,409,0,305
+1728342558037,715,getBlog Request-1,200,OK,Thread Group get blog 1-4,text,true,,13435,120,10,10,https://kodilla.com/pl/blog,512,0,0
+1728342558044,812,getBlog Request,200,OK,Thread Group get blog 1-1,text,true,,14845,237,9,9,https://kodilla.com/pl/blog,95,0,0
+1728342558044,95,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-1,text,true,,1422,117,9,9,https://kodilla.com/blog,95,0,0
+1728342558139,717,getBlog Request-1,200,OK,Thread Group get blog 1-1,text,true,,13423,120,9,9,https://kodilla.com/pl/blog,717,0,0
+1728342558228,628,getBlog Request,200,OK,Thread Group get blog 1-10,text,true,,14827,237,9,9,https://kodilla.com/pl/blog,396,0,322
+1728342558228,396,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-10,text,true,,1416,117,9,9,https://kodilla.com/blog,396,0,322
+1728342558624,232,getBlog Request-1,200,OK,Thread Group get blog 1-10,text,true,,13411,120,9,9,https://kodilla.com/pl/blog,232,0,0
+1728342558347,713,getBlog Request,200,OK,Thread Group get blog 1-6,text,true,,14825,237,8,8,https://kodilla.com/pl/blog,610,0,0
+1728342558347,610,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-6,text,true,,1416,117,8,8,https://kodilla.com/blog,610,0,0
+1728342558957,103,getBlog Request-1,200,OK,Thread Group get blog 1-6,text,true,,13409,120,8,8,https://kodilla.com/pl/blog,103,0,0
+1728342558029,1198,getBlog Request,200,OK,Thread Group get blog 1-8,text,true,,14857,237,7,7,https://kodilla.com/pl/blog,315,0,209
+1728342558029,315,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-8,text,true,,1424,117,7,7,https://kodilla.com/blog,315,0,209
+1728342558344,883,getBlog Request-1,200,OK,Thread Group get blog 1-8,text,true,,13433,120,7,7,https://kodilla.com/pl/blog,819,0,0
+1728342558448,840,getBlog Request,200,OK,Thread Group get blog 1-3,text,true,,14837,237,7,7,https://kodilla.com/pl/blog,101,0,0
+1728342558448,102,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-3,text,true,,1418,117,7,7,https://kodilla.com/blog,101,0,0
+1728342558550,738,getBlog Request-1,200,OK,Thread Group get blog 1-3,text,true,,13419,120,7,7,https://kodilla.com/pl/blog,737,0,0
+1728342557928,1437,getBlog Request,200,OK,Thread Group get blog 1-7,text,true,,14840,237,6,6,https://kodilla.com/pl/blog,696,0,168
+1728342557928,696,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-7,text,true,,1420,117,6,6,https://kodilla.com/blog,696,0,168
+1728342558127,1238,getBlog Request,200,OK,Thread Group get blog 1-9,text,true,,14843,237,6,6,https://kodilla.com/pl/blog,422,0,319
+1728342558624,741,getBlog Request-1,200,OK,Thread Group get blog 1-7,text,true,,13420,120,6,6,https://kodilla.com/pl/blog,674,0,0
+1728342558127,422,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-9,text,true,,1420,117,6,6,https://kodilla.com/blog,422,0,319
+1728342558550,815,getBlog Request-1,200,OK,Thread Group get blog 1-9,text,true,,13423,120,6,6,https://kodilla.com/pl/blog,675,0,0
+1728342558756,629,getBlog Request,200,OK,Thread Group get blog 1-4,text,true,,14843,237,6,6,https://kodilla.com/pl/blog,100,0,0
+1728342558861,524,getBlog Request,200,OK,Thread Group get blog 1-10,text,true,,14845,237,6,6,https://kodilla.com/pl/blog,441,0,0
+1728342558756,100,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-4,text,true,,1424,117,6,6,https://kodilla.com/blog,100,0,0
+1728342558861,441,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-10,text,true,,1424,117,6,6,https://kodilla.com/blog,441,0,0
+1728342558856,529,getBlog Request-1,200,OK,Thread Group get blog 1-4,text,true,,13419,120,6,6,https://kodilla.com/pl/blog,529,0,0
+1728342559302,83,getBlog Request-1,200,OK,Thread Group get blog 1-10,text,true,,13421,120,6,6,https://kodilla.com/pl/blog,83,0,0
+1728342559230,341,getBlog Request,200,OK,Thread Group get blog 1-8,text,true,,14836,237,4,4,https://kodilla.com/pl/blog,72,0,0
+1728342558553,1019,getBlog Request,200,OK,Thread Group get blog 1-5,text,true,,14849,237,4,4,https://kodilla.com/pl/blog,672,0,0
+1728342559230,72,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-8,text,true,,1418,117,4,4,https://kodilla.com/blog,72,0,0
+1728342559302,269,getBlog Request-1,200,OK,Thread Group get blog 1-8,text,true,,13418,120,4,4,https://kodilla.com/pl/blog,269,0,0
+1728342558553,672,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-5,text,true,,1418,117,4,4,https://kodilla.com/blog,672,0,0
+1728342559225,347,getBlog Request-1,200,OK,Thread Group get blog 1-5,text,true,,13431,120,4,4,https://kodilla.com/pl/blog,346,0,0
+1728342559370,406,getBlog Request,200,OK,Thread Group get blog 1-9,text,true,,14835,237,2,2,https://kodilla.com/pl/blog,100,0,0
+1728342559370,100,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-9,text,true,,1422,117,2,2,https://kodilla.com/blog,100,0,0
+1728342559470,306,getBlog Request-1,200,OK,Thread Group get blog 1-9,text,true,,13413,120,2,2,https://kodilla.com/pl/blog,306,0,0
+1728342559370,406,getBlog Request,200,OK,Thread Group get blog 1-7,text,true,,14837,237,2,2,https://kodilla.com/pl/blog,304,0,0
+1728342559370,304,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-7,text,true,,1418,117,2,2,https://kodilla.com/blog,304,0,0
+1728342559674,102,getBlog Request-1,200,OK,Thread Group get blog 1-7,text,true,,13419,120,2,2,https://kodilla.com/pl/blog,102,0,0
+1728343016952,662,getBlog Request,200,OK,Thread Group get blog 1-2,text,true,,14845,237,8,8,https://kodilla.com/pl/blog,313,0,214
+1728343016952,313,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-2,text,true,,1424,117,8,8,https://kodilla.com/blog,313,0,214
+1728343017265,349,getBlog Request-1,200,OK,Thread Group get blog 1-2,text,true,,13421,120,8,8,https://kodilla.com/pl/blog,304,0,0
+1728343016855,814,getBlog Request,200,OK,Thread Group get blog 1-1,text,true,,14847,237,9,9,https://kodilla.com/pl/blog,410,0,259
+1728343016855,410,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-1,text,true,,1422,117,9,9,https://kodilla.com/blog,410,0,259
+1728343017265,404,getBlog Request-1,200,OK,Thread Group get blog 1-1,text,true,,13425,120,9,9,https://kodilla.com/pl/blog,319,0,0
+1728343017052,714,getBlog Request,200,OK,Thread Group get blog 1-3,text,true,,14841,237,10,10,https://kodilla.com/pl/blog,313,0,212
+1728343017052,313,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-3,text,true,,1418,117,10,10,https://kodilla.com/blog,313,0,212
+1728343017365,401,getBlog Request-1,200,OK,Thread Group get blog 1-3,text,true,,13423,120,10,10,https://kodilla.com/pl/blog,290,0,0
+1728343017352,541,getBlog Request,200,OK,Thread Group get blog 1-6,text,true,,14827,237,10,10,https://kodilla.com/pl/blog,292,0,216
+1728343017352,292,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-6,text,true,,1418,117,10,10,https://kodilla.com/blog,292,0,216
+1728343017644,249,getBlog Request-1,200,OK,Thread Group get blog 1-6,text,true,,13409,120,10,10,https://kodilla.com/pl/blog,249,0,0
+1728343017152,882,getBlog Request,200,OK,Thread Group get blog 1-4,text,true,,14837,237,10,10,https://kodilla.com/pl/blog,317,0,219
+1728343017152,317,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-4,text,true,,1420,117,10,10,https://kodilla.com/blog,317,0,219
+1728343017469,565,getBlog Request-1,200,OK,Thread Group get blog 1-4,text,true,,13417,120,10,10,https://kodilla.com/pl/blog,565,0,0
+1728343017253,847,getBlog Request,200,OK,Thread Group get blog 1-5,text,true,,14829,237,10,10,https://kodilla.com/pl/blog,315,0,188
+1728343017253,315,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-5,text,true,,1416,117,10,10,https://kodilla.com/blog,315,0,188
+1728343017568,532,getBlog Request-1,200,OK,Thread Group get blog 1-5,text,true,,13413,120,10,10,https://kodilla.com/pl/blog,532,0,0
+1728343017455,658,getBlog Request,200,OK,Thread Group get blog 1-7,text,true,,14831,237,10,10,https://kodilla.com/pl/blog,375,0,214
+1728343017455,375,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-7,text,true,,1416,117,10,10,https://kodilla.com/blog,375,0,214
+1728343017831,282,getBlog Request-1,200,OK,Thread Group get blog 1-7,text,true,,13415,120,10,10,https://kodilla.com/pl/blog,282,0,0
+1728343017672,569,getBlog Request,200,OK,Thread Group get blog 1-1,text,true,,14849,237,10,10,https://kodilla.com/pl/blog,428,0,0
+1728343017672,428,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-1,text,true,,1426,117,10,10,https://kodilla.com/blog,428,0,0
+1728343018100,141,getBlog Request-1,200,OK,Thread Group get blog 1-1,text,true,,13423,120,10,10,https://kodilla.com/pl/blog,141,0,0
+1728343017897,344,getBlog Request,200,OK,Thread Group get blog 1-6,text,true,,14831,237,10,10,https://kodilla.com/pl/blog,137,0,0
+1728343017897,137,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-6,text,true,,1418,117,10,10,https://kodilla.com/blog,137,0,0
+1728343018035,206,getBlog Request-1,200,OK,Thread Group get blog 1-6,text,true,,13413,120,10,10,https://kodilla.com/pl/blog,206,0,0
+1728343018117,226,getBlog Request,200,OK,Thread Group get blog 1-7,text,true,,14835,237,8,8,https://kodilla.com/pl/blog,124,0,0
+1728343018117,124,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-7,text,true,,1424,117,8,8,https://kodilla.com/blog,124,0,0
+1728343018242,101,getBlog Request-1,200,OK,Thread Group get blog 1-7,text,true,,13411,120,8,8,https://kodilla.com/pl/blog,101,0,0
+1728343017553,994,getBlog Request,200,OK,Thread Group get blog 1-8,text,true,,14835,237,7,7,https://kodilla.com/pl/blog,283,0,213
+1728343017553,283,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-8,text,true,,1416,117,7,7,https://kodilla.com/blog,283,0,213
+1728343017837,710,getBlog Request-1,200,OK,Thread Group get blog 1-8,text,true,,13419,120,7,7,https://kodilla.com/pl/blog,710,0,0
+1728343017653,954,getBlog Request,200,OK,Thread Group get blog 1-9,text,true,,14845,237,7,7,https://kodilla.com/pl/blog,719,0,240
+1728343017653,719,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-9,text,true,,1424,117,7,7,https://kodilla.com/blog,719,0,240
+1728343018372,235,getBlog Request-1,200,OK,Thread Group get blog 1-9,text,true,,13421,120,7,7,https://kodilla.com/pl/blog,235,0,0
+1728343017621,1002,getBlog Request,200,OK,Thread Group get blog 1-2,text,true,,14839,237,7,7,https://kodilla.com/pl/blog,413,0,0
+1728343017621,413,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-2,text,true,,1416,117,7,7,https://kodilla.com/blog,413,0,0
+1728343018034,589,getBlog Request-1,200,OK,Thread Group get blog 1-2,text,true,,13423,120,7,7,https://kodilla.com/pl/blog,589,0,0
+1728343017771,980,getBlog Request,200,OK,Thread Group get blog 1-3,text,true,,14852,237,6,6,https://kodilla.com/pl/blog,329,0,0
+1728343017771,329,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-3,text,true,,1424,117,6,6,https://kodilla.com/blog,329,0,0
+1728343018100,651,getBlog Request-1,200,OK,Thread Group get blog 1-3,text,true,,13428,120,6,6,https://kodilla.com/pl/blog,651,0,0
+1728343018038,713,getBlog Request,200,OK,Thread Group get blog 1-4,text,true,,14831,237,6,6,https://kodilla.com/pl/blog,569,0,0
+1728343018038,569,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-4,text,true,,1420,117,6,6,https://kodilla.com/blog,569,0,0
+1728343018607,144,getBlog Request-1,200,OK,Thread Group get blog 1-4,text,true,,13411,120,6,6,https://kodilla.com/pl/blog,144,0,0
+1728343018104,755,getBlog Request,200,OK,Thread Group get blog 1-5,text,true,,14837,237,4,4,https://kodilla.com/pl/blog,647,0,0
+1728343018104,647,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-5,text,true,,1420,117,4,4,https://kodilla.com/blog,647,0,0
+1728343018751,108,getBlog Request-1,200,OK,Thread Group get blog 1-5,text,true,,13417,120,4,4,https://kodilla.com/pl/blog,108,0,0
+1728343017754,1304,getBlog Request,200,OK,Thread Group get blog 1-10,text,true,,14839,237,3,3,https://kodilla.com/pl/blog,365,0,281
+1728343017754,365,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-10,text,true,,1418,117,3,3,https://kodilla.com/blog,365,0,281
+1728343018119,939,getBlog Request-1,200,OK,Thread Group get blog 1-10,text,true,,13421,120,3,3,https://kodilla.com/pl/blog,939,0,0
+1728343018551,718,getBlog Request,200,OK,Thread Group get blog 1-8,text,true,,14843,237,3,3,https://kodilla.com/pl/blog,303,0,0
+1728343018551,303,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-8,text,true,,1424,117,3,3,https://kodilla.com/blog,303,0,0
+1728343018854,415,getBlog Request-1,200,OK,Thread Group get blog 1-8,text,true,,13419,120,3,3,https://kodilla.com/pl/blog,415,0,0
+1728343018610,960,getBlog Request,200,OK,Thread Group get blog 1-9,text,true,,14829,237,2,2,https://kodilla.com/pl/blog,309,0,0
+1728343018610,309,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-9,text,true,,1418,117,2,2,https://kodilla.com/blog,309,0,0
+1728343018919,651,getBlog Request-1,200,OK,Thread Group get blog 1-9,text,true,,13411,120,2,2,https://kodilla.com/pl/blog,651,0,0
+1728343019062,715,getBlog Request,200,OK,Thread Group get blog 1-10,text,true,,14831,237,1,1,https://kodilla.com/pl/blog,97,0,0
+1728343019062,97,getBlog Request-0,301,Moved Permanently,Thread Group get blog 1-10,text,true,,1416,117,1,1,https://kodilla.com/blog,97,0,0
+1728343019159,618,getBlog Request-1,200,OK,Thread Group get blog 1-10,text,true,,13415,120,1,1,https://kodilla.com/pl/blog,617,0,0
